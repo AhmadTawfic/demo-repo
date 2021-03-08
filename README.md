@@ -1,3 +1,3 @@
 # Demo
 
-First git.
+First git!
